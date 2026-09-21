@@ -1,0 +1,25 @@
+# Local credentials, snapshots and delivery records
+smtp.local.json
+*.local.json
+.env
+.env.*
+!.env.example
+usage.json
+usage*.json
+!examples/usage.example.json
+state.json
+state.tmp
+state.lock
+*.log
+*.eml
+# Generated emails may include account information
+daily.html
+expiry.html
+# Build/export and editor files
+dist/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.idea/
+.vscode/

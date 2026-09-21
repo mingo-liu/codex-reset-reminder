@@ -1,0 +1,9 @@
+{
+  "rateLimitResetCredits": {
+    "availableCount": 2,
+    "credits": [
+      {"id": "demo-credit-001", "resetType": "codexRateLimits", "status": "available", "expiresAt": 4102444800},
+      {"id": "demo-credit-002", "resetType": "codexRateLimits", "status": "available", "expiresAt": 4102531200}
+    ]
+  }
+}
